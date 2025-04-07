@@ -1,0 +1,47 @@
+# 💻 Projetos Iniciais em PHP com Programação Orientada a Objetos (POO)
+
+Este repositório reúne meus primeiros projetos aplicando **Programação Orientada a Objetos (POO) em PHP**. Cada exercício foi pensado para consolidar os fundamentos essenciais da POO na prática.
+
+---
+
+## 📦 Projeto 1: Produto
+
+Simula um sistema simples de cadastro de produtos.
+
+📄 Arquivo: `produto.php`
+
+### Funcionalidades:
+- Classe `Produto`
+- Atributos: nome, preço e categoria
+- Construtor para inicialização
+- Método `exibirDetalhes()` para mostrar as informações
+
+---
+
+## 📚 Projeto 2: Livro
+
+Representa livros com seus dados principais usando POO.
+
+📄 Arquivos:
+- `Livro.php` → definição da classe
+- `index.php` → execução com instâncias e exibição
+
+### Funcionalidades:
+- Classe `Livro`
+- Atributos: título, autor e ano
+- Construtor (`__construct`)
+- Método `exibirInformacoes()` para exibir os dados do livro
+
+---
+
+## 🧠 Aprendizados
+
+- Estrutura básica da POO: classes, objetos, atributos e métodos
+- Construtores e uso da palavra-chave `$this`
+- Organização modular de código em múltiplos arquivos
+- Prática com projetos reais, didáticos e diretos
+
+---
+
+## 📁 Estrutura do repositório
+
