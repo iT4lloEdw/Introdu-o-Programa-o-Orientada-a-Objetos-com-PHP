@@ -24,8 +24,7 @@ O projeto contém exemplos simples e comentados para facilitar a visualização 
 ## 🛠️ Tecnologias
 
 - PHP (versão 7.4+ ou superior)  
-- Editor de texto (VSCode, Sublime, etc.)  
-- [MyCompiler.io](https://www.mycompiler.io/new/php) (para testar sem precisar instalar)
+- Editor de texto (VSCode)  
 
 ---
 
